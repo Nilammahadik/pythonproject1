@@ -2,3 +2,5 @@ this is file A
 ------------------
 this modified file
 %%%%%%%%%%%%%%
+
+1234
